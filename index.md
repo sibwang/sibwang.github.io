@@ -23,10 +23,5 @@ AI (or machine learning) is a powerful technique that has shown success in vario
 
 {% include_relative _includes/honors.md %}
 
-<!--{% include_relative _includes/teaching.md %} -->>
-
-<!--{% include_relative _includes/talks.md %} -->>
-
 {% include_relative _includes/services.md %}
 
-<!--{% include_relative _includes/contact.md %} -->>
