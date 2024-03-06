@@ -8,9 +8,10 @@ I am a final-year Ph.D. student in the Department of Information Science at Xi'a
 
 ## Research Interests
 
-- **Network Optimization for Real-Time Communication
-:** With the increasing popularity of low-latency interactive networked applications such as video conferencing, cloud gaming, remote operation, etc., it is crucial to rethink and redesign the control and scheduling algorithms in many aspects of current networked systems.
-- **AI-Assisted Network Optimization:** AI (or machine learning) is a powerful technique that has shown success in various domains. Harnessing AI-based methods for optimizing networked systems and applications holds promise but poses significant challenges in practice, particularly in real networks.
+- **Network Optimization for Real-Time Communication:**
+With the increasing popularity of low-latency interactive networked applications such as video conferencing, cloud gaming, remote operation, etc., it is crucial to rethink and redesign the control and scheduling algorithms in many aspects of current networked systems.
+- **AI-Assisted Network Optimization:**
+AI (or machine learning) is a powerful technique that has shown success in various domains. Harnessing AI-based methods for optimizing networked systems and applications holds promise but poses significant challenges in practice, particularly in real networks.
 
 <!--{% include_relative _includes/news.md %}>>
 
