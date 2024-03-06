@@ -1,21 +1,21 @@
 main:
 
-  - title: Pudica: Toward Near-Zero Queuing Delay in Congestion Control for Cloud Gaming
-    authors: <strong>Shibo Wang</strong>, Shusen Yang, Xiao Kong, Chenglei Wu, Longwei Jiang, Chenren Xu, Cong Zhao, Xuesong Yang, Jianjun Xiao, Xin Liu, Changxi Zheng, Jing Wang, and Honghao Liu
-    conference_short: NSDI
-    conference: 21st USENIX Symposium on Networked Systems Design and Implementation <strong>(USENIX NSDI)</strong>, 2024.
-    pdf: https://sibwang.github.io/publications/Pudica-NSDI24.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
+  # - title: Pudica: Toward Near-Zero Queuing Delay in Congestion Control for Cloud Gaming
+  #   authors: <strong>Shibo Wang</strong>, Shusen Yang, Xiao Kong, Chenglei Wu, Longwei Jiang, Chenren Xu, Cong Zhao, Xuesong Yang, Jianjun Xiao, Xin Liu, Changxi Zheng, Jing Wang, Honghao Liu
+  #   conference_short: NSDI
+  #   conference: 21st USENIX Symposium on Networked Systems Design and Implementation <strong>(USENIX NSDI)</strong>, 2024.
+  #   pdf: https://sibwang.github.io/publications/Pudica-NSDI24.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   # notes: Early Accept
 
-  - title: SalientVR: saliency-driven mobile 360-degree video streaming with gaze information
-    authors: <strong>Shibo Wang</strong>, Shusen Yang, Hailiang Li, Xiaodan Zhang, Chen Zhou, Chenren Xu, Feng Qian, Nanbin Wang, and Zongben Xu
-    conference_short: MobiCom
-    conference: Proceedings of the 28th Annual International Conference on Mobile Computing And Networking <strong>(ACM MobiCom)</strong>, 2022.
-    pdf: ./publications/SalientVR-MobiCom24.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
+  # - title: SalientVR: saliency-driven mobile 360-degree video streaming with gaze information
+  #   authors: <strong>Shibo Wang</strong>, Shusen Yang, Hailiang Li, Xiaodan Zhang, Chen Zhou, Chenren Xu, Feng Qian, Nanbin Wang, and Zongben Xu
+  #   conference_short: MobiCom
+  #   conference: Proceedings of the 28th Annual International Conference on Mobile Computing And Networking <strong>(ACM MobiCom)</strong>, 2022.
+  #   pdf: ./publications/SalientVR-MobiCom24.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   # notes: Early Accept
