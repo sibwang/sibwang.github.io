@@ -13,7 +13,7 @@ With the increasing popularity of low-latency interactive networked applications
 - **AI-Assisted Network Optimization:**
 AI (or machine learning) is a powerful technique that has shown success in various domains. Harnessing AI-based methods for optimizing networked systems and applications holds promise but poses significant challenges in practice, particularly in real networks.
 
-## News
+<!--## News>>
 
 <!--{% include_relative _includes/news.md %}>>
 
