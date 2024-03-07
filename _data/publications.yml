@@ -1,13 +1,13 @@
 main:
 
   - title: Reducing Traffic Wastage in Video Streaming via Bandwidth-Efficient Bitrate Adaptation
-    authors: Hairong Su, <strong>Shibo Wang* (Co-first)</strong>, Shusen Yang, Tianchi Huang, Xuebin Ren
+    authors: Hairong Su*, <strong>Shibo Wang* (Co-first)</strong>, Shusen Yang, Tianchi Huang, Xuebin Ren
     conference_short: TMC
     conference: in IEEE Transactions on Mobile Computing <strong>(IEEE TMC)</strong>, 2024.
     pdf: ./publications/BE-ABR-TMC24.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/BE-ABR-TMC24-oview.png
     # notes: None
 
   - title: "EdgeTimer: Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement Learning"
@@ -17,7 +17,7 @@ main:
     pdf: ./publications/EdgeTimer-INFOCOM24.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/EdgeTimer-INFOCOM24-oview.png
     # notes: None
   
   - title: "Pudica: Toward Near-Zero Queuing Delay in Congestion Control for Cloud Gaming"
@@ -27,8 +27,18 @@ main:
     pdf: https://sibwang.github.io/publications/Pudica-NSDI24.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Pudica-NSDI24-oview.png
     # notes: None
+  
+  - title: "AUGUR: Practical Mobile Multipath Transport Service for Low Tail Latency in Real-Time Streaming"
+    authors: Yuhan Zhou, Tingfeng Wang, Liying Wang, Nian Wen, Rui Han, Jing Wang, Chenglei Wu, Jiafeng Chen, Longwei Jiang, <strong>Shibo Wang</strong>, Honghao Liu, Chenren Xu
+    conference_short: NSDI
+    conference: 21st USENIX Symposium on Networked Systems Design and Implementation <strong>(USENIX NSDI)</strong>, 2024.
+    pdf: https://sibwang.github.io/publications/AUGUR-NSDI24.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/AUGUR-NSDI24-oview.png
+    # notes: None    
 
   - title: "Robust Saliency-Driven Quality Adaptation for Mobile 360-Degree Video Streaming"
     authors: <strong>Shibo Wang</strong>, Shusen Yang, Hairong Su, Cong Zhao, Chenren Xu, Feng Qian, Nanbin Wang, Zongben Xu
@@ -37,7 +47,7 @@ main:
     pdf: ./publications/RoSal360-TMC23.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/RoSal360-TMC23-oview.png
     # notes: None
 
   - title: "SalientVR: saliency-driven mobile 360-degree video streaming with gaze information"
@@ -47,7 +57,7 @@ main:
     pdf: ./publications/SalientVR-MobiCom22.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/SalientVR-MobiCom22-oview.png
     # notes: None
 
   - title: "SurveilEdge: Real-time Video Query based on Collaborative Cloud-Edge Deep Learning"
@@ -57,7 +67,7 @@ main:
     pdf: ./publications/SurveilEdge-INFOCOM20.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/SurveilEdge-INFOCOM20-oview.png
     # notes: None
 
 
