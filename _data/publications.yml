@@ -7,7 +7,7 @@ main:
     pdf: ./publications/BE-ABR-TMC24.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/BE-ABR-TMC24-oview.jpg
+    image: ./assets/img/BE-ABR-TMC24-oview.png
     # notes: None
 
   - title: "EdgeTimer: Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement Learning"
@@ -17,7 +17,7 @@ main:
     pdf: ./publications/EdgeTimer-INFOCOM24.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/EdgeTimer-INFOCOM24-oview.pdf
+    image: ./assets/img/EdgeTimer-INFOCOM24-oview.png
     # notes: None
   
   - title: "Pudica: Toward Near-Zero Queuing Delay in Congestion Control for Cloud Gaming"
@@ -27,7 +27,7 @@ main:
     pdf: https://sibwang.github.io/publications/Pudica-NSDI24.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Pudica-NSDI24-oview.pdf
+    image: ./assets/img/Pudica-NSDI24-oview.png
     # notes: None
   
   - title: "AUGUR: Practical Mobile Multipath Transport Service for Low Tail Latency in Real-Time Streaming"
@@ -37,7 +37,7 @@ main:
     pdf: https://sibwang.github.io/publications/AUGUR-NSDI24.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/AUGUR-NSDI24-oview.pdf
+    image: ./assets/img/AUGUR-NSDI24-oview.png
     # notes: None    
 
   - title: "Robust Saliency-Driven Quality Adaptation for Mobile 360-Degree Video Streaming"
