@@ -1,4 +1,6 @@
-## Experiences
+<h1 id="experiences"></h1>
+
+<h2 style="margin: 60px 0px 10px;">Experiences</h2>
 
 <ul style="margin:0 0 5px;">
   <li><a><autocolor><strong>Chinese University of Hong Kong (CUHK) Research Assistant</strong> (Advisor: Prof. Hong Xu), July 2023 - now</autocolor></a></li>
